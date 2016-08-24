@@ -1,0 +1,14 @@
+{
+  "name": "@cicio/coderepo",
+  "version": "1.0.0",
+  "description": "firstPkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Miguel W. Cruz",
+  "license": "ISC",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
